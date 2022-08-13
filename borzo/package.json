@@ -1,7 +1,7 @@
 {
   "name": "borzo",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.1.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
@@ -15,6 +15,8 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
+    "typography": "^0.16.21",
+    "typography-theme-bootstrap": "^0.16.19",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

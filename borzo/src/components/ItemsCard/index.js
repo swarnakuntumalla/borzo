@@ -43,6 +43,7 @@ const ItemsCard = () => {
                     <img src={card_1} alt="cardImage" />
                     <h1 className="pl-4 pr-4 mt-4">{cardsData[0].title}</h1>
                     <p className="pl-4 pr-4">{cardsData[0].text}</p>
+                    <h6 className="pl-4 pr-4">Learn More...</h6>
                 </li>
                 <li className="card-item mt-6 bg-zinc-100">
                     <img src={card_2} alt="cardImage" />
@@ -60,6 +61,7 @@ const ItemsCard = () => {
                     <img src={card_4} alt="cardImage" />
                     <h1 className="pl-4 pr-4 mt-4">{cardsData[3].title}</h1>
                     <p className="pl-4 pr-4">{cardsData[3].text}</p>
+                    <h6 className="pl-4 pr-4">Learn More...</h6>
                 </li>
                 <li className="card-item mt-6 bg-zinc-100">
                     <img src={card_5} alt="cardImage" />

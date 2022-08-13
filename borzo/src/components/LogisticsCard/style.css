@@ -1,0 +1,15 @@
+.item {
+    width: 45%;
+    height: 250px;
+    margin-right: 20px;
+    border-radius: 25px;
+    padding: 20px;
+}
+.id-item{
+    font-size: 32px;
+    font-weight: bold;
+    padding: 5px 20px ;
+    border-radius: 50%;
+    background-color: rgb(7, 2, 2);
+    color: white;
+}

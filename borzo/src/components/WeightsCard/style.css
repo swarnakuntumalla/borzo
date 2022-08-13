@@ -1,0 +1,17 @@
+.wt-container{
+    background-color: #ffffff;
+    width: 140px;
+    padding: 15px;
+    padding-bottom: 0px;
+    text-align: center;
+    border: 1px solid lightgray;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.wt-container:hover {
+    border-color: rgb(144, 144, 144);
+}
+.selected{
+    border-color: #0048ff;
+}
